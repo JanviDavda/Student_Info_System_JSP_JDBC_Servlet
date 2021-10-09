@@ -8,7 +8,11 @@ This project includes mainly two functionalities with sub-functionalities as men
 
 => Implement Authentication mechanism using Jsp & Servlet
   > Jsp Page to login
+  
   > Jsp Page to display students data
+  
   > Jsp Page to create new student entity (in database using jdbc)
+  
   > Logout functionality
+  
   > If we are not logged in then we should not be able to perform tasks like create/get students
