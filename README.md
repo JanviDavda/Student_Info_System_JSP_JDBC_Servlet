@@ -3,6 +3,7 @@ This project includes mainly two functionalities with sub-functionalities as men
 
 => Write a program to manage student details with the below requirements.
   > JSP page to create student and save in database using JDBC
+  
   > JSP page to display saved students details from the database
 
 => Implement Authentication mechanism using Jsp & Servlet
